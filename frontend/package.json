@@ -6,13 +6,25 @@
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "react-router": "^6.0.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.0",
+    "jwt-decode": "^3.1.0",
+    "form-data": "^4.0.0",
+    "scheduler": "^0.20.0",
+    "@remix-run/router": "^1.0.0",
+    "@babel/runtime": "^7.15.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "devServer": {
+    "overlay": false
   },
   "eslintConfig": {
     "extends": [

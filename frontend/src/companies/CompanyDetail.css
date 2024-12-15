@@ -1,0 +1,5 @@
+.CompanyDetail h4,
+.CompanyDetail p {
+  color: #ffffff;
+  text-shadow: 2px 2px 5px rgb(52, 48, 47);
+}
